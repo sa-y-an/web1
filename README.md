@@ -1,9 +1,13 @@
 <h1 align='center'> Website 1 </h1>
 
 ## About 
-
-> <ul> <li>I am a student at NIT Durgapur.</li> <li>I love maths and science.</li>  
-  > <li> I am a professional procastinator and a part time developer. </li> </ul>
+<blockquote>
+ <ul>
+   <li>I am a student at NIT Durgapur.</li>
+   <li>I love maths and science.</li>
+   <li> I am a professional procastinator and a part time developer. </li>
+ </ul>
+</blockquote>
 
 ## Areas of Interest
 * Theoritical Physics & Quantum Mechanics
