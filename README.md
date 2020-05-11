@@ -2,11 +2,10 @@
 
 ## About 
 <blockquote>
- <ul>
-   <li>I am a student at NIT Durgapur.</li>
-   <li>I love maths and science.</li>
-   <li> I am a professional procastinator and a part time developer. </li>
- </ul>
+I am a student at NIT Durgapur. <br>
+I love maths and science. <br>
+I am a professional procastinator and a part time developer. <br>
+
 </blockquote>
 
 ## Areas of Interest
