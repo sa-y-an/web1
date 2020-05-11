@@ -1,4 +1,4 @@
-# web1
+# Website 1
 
 ### This is my first webpage built using github pages
 ---
