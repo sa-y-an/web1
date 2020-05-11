@@ -23,3 +23,9 @@ Further updates on the way 😀🙂
 ---
 
 _Feel free to suggest any changes_
+
+_thanks for your time_
+
+#### PS
+> _Idea is to scrap it and build one using Django.
+> _ But I am too lazy
