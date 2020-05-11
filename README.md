@@ -2,11 +2,7 @@
 
 ## About 
 
-> I am a student at NIT Durgapur.
- <br>
- <ul> 
-  <li>I love maths and science.</li>  
- </ul>
+> I am a student at NIT Durgapur. <br> <ul>  <li>I love maths and science.</li>  </ul>
 > I am a professional procastinator and a part time developer.
 
 ## Areas of Interest
