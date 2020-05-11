@@ -1,6 +1,6 @@
 <h1 align='center'> Website 1 <h1>
 
-<p> About </p>
+## About 
 
 > I am a student at NIT Durgapur. I love maths and science.
 > I am a professional procastinator and a part time developer.
