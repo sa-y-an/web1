@@ -2,8 +2,8 @@
 
 ## About 
 
-> I am a student at NIT Durgapur. <br> <ul>  <li>I love maths and science.</li>  </ul>
-> I am a professional procastinator and a part time developer.
+> <ul> <li>I am a student at NIT Durgapur.</li> <li>I love maths and science.</li>  
+  > <li> I am a professional procastinator and a part time developer. </li> </ul>
 
 ## Areas of Interest
 * Theoritical Physics & Quantum Mechanics
