@@ -2,7 +2,8 @@
 
 <h2 align='left'> About </h2>
 
-> I am a student at NIT Durgapur. I love maths and science.<br> I am a professional procastinator and a part time developer.
+> I am a student at NIT Durgapur. I love maths and science.
+> I am a professional procastinator and a part time developer.
 
 ### This is my first webpage built using github pages
 ## Hope you liked it 😁
