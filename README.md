@@ -4,11 +4,11 @@
 
 >I am a student  <br>
 >I love maths and science. <br>
->I am a professional procastinator and a part time developer. <br>
+>I am a professional procrastinator and a part time developer. <br>
 
 
 ## Areas of Interest
-* Theoritical Physics & Quantum Mechanics
+* Theoretical Physics & Quantum Mechanics
 * Machine Learning
 * Cricket
 * WebD (not so much .......)
@@ -30,3 +30,4 @@ _thanks for your time_
 > 
 > Idea is to scrap it and build one using Django.<br>
 > But I am too lazy _lol_
+> Thanks again
