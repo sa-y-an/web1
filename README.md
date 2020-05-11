@@ -1,4 +1,4 @@
-<h1 align='center'> Website 1 </h1>
+<h1 align='center'> Temporary </h1>
 
 ## About 
 
@@ -28,5 +28,5 @@ _thanks for your time_
 
 #### PS
 > 
-> _Idea is to scrap it and build one using Django._ <br>
-> _But I am too lazy_ lol
+> Idea is to scrap it and build one using Django.<br>
+> But I am too lazy _lol_
